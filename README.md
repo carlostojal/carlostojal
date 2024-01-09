@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I'm currently finishing my BSc. in Computer Science and Engineering at the [Polytechnic University of Leiria](https://ipleiria.pt)
-- 🏎️ I lead the autonomous driving department of my university, [LART](https://formula.ipleiria.pt). I also do development, mainly in the perception area:
+- 🏎️ I lead the autonomous driving department of my university's Formula Student Team, [LART](https://formula.ipleiria.pt). I also do development, mainly in the perception area:
     - Train an object detection neural network in a custom dataset (FSOCO)
     - Develop C++ software to use stereo imagery to classify cones and get its positions in 3D space
 - 🤖 I do research at the Robotics Laboratory of my university in the field of computer vision, more specifically sensor fusion using deep neural networks, at the moment:
